@@ -1,4 +1,4 @@
-### Hi there 👋 I am <b>Abdul Rahman>/b>
+### Hi there 👋 I am <b>Abdul Rahman</b>
 
 
 
