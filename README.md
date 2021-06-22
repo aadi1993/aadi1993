@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align:center;">>Hi there 👋 I am Abdul Rahman</h1>
+<h1 style="text-align:center;">Hi there 👋 I am Abdul Rahman</h1>
 <hr size="8" width="90%" color="red">
 
 Here are some ideas to get you started:
