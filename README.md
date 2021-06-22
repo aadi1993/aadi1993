@@ -1,6 +1,6 @@
 ### Hi there 👋 I am <b>Abdul Rahman</b>
 
-
+<hr size="8" width="90%" color="red">
 
 Here are some ideas to get you started:
 
