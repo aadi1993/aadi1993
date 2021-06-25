@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋 I am Abdul Rahman</h1>
-<h2 align="center">A Machine Learning and Deep Learning Engineer.</h2>
+<h2 align="center">Machine Learning and Deep Learning Engineer.</h2>
 <hr size="8" width="100%" color="red">
 <h3 align="center">Researcher & Development Engineer | AI for Healthcare | Computer Vision | Machine Learning | Data Science | NLP Engineer</h3>
 
